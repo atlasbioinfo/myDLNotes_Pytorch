@@ -7,3 +7,6 @@ My daytime belong to others.only the night belongs to myself.
 Let's begin at the very begining.
 * Install and Notation
 * Introduction
+
+### 20210819-06:10
+* Preliminaries 
