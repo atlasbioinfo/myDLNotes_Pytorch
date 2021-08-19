@@ -9,4 +9,8 @@ Let's begin at the very begining.
 * Introduction
 
 ### 20210819-06:10
-* Preliminaries 
+* Preliminaries 2.1
+
+### 20210819-21:00
+* Preliminaries 2.2-2.3
+ 
