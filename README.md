@@ -14,3 +14,5 @@ Let's begin at the very begining.
 ### 20210819-21:00
 * Preliminaries 2.2-2.3
  
+### 20210822-16:26
+* Preliminaries 2.4-2.7
